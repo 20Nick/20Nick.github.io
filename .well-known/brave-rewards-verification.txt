@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: 20nick.github.io
+Token: 16097c1c874e1f19f14f4125074807a68cff9217c8325ebed32bf0cc0d4432e1
